@@ -48,6 +48,6 @@ It will also show us which countries, for political or other reasons, underrepor
 
 [^1]: Checchi, F., & Roberts, L. (2005). [Interpreting and using mortality data in humanitarian emergencies.](https://odihpn.org/resources/interpreting-and-using-mortality-data-in-humanitarian-emergencies/) Humanitarian Practice Network, 52.
 
-[^2] https://unstats.un.org/unsd/demographic-social/crvs/#coverage
+[^2]: https://unstats.un.org/unsd/demographic-social/crvs/#coverage
 
-[^3] https://www.bbc.com/news/world-africa-55674139
+[^3]: https://www.bbc.com/news/world-africa-55674139
