@@ -1,0 +1,14 @@
+# (PART) Excessive Deaths {-}
+
+# R basics {#r-basics}
+
+```{r, echo=FALSE}
+img_path <- "R/img"
+```
+
+In this book, we will be using the Microsoft SQL software environment to pull the date to later visualize in Tableau. 
+I will try to improve my data analysis techniques using this 2 technical tools.
+
+##  Case study: US Gun Murders
+
+Imagine you live in Europe and are offered a job in a US company with many locations across all states. It is a great job, but news with headlines such as **US Gun Homicide Rate Higher Than Other Developed Countries**^[http://abcnews.go.com/blogs/headlines/2012/12/us-gun-ownership-homicide-rate-higher-than-other-developed-countries/] have you worried. Charts like this may concern you even more:
